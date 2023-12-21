@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# Shailyarajsinh's Portfolio
 
 ## Overview
 
@@ -10,11 +10,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Live Demo
 
@@ -43,5 +38,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [Your Repository URL]
-
+   git clone Shailyarajsinh/dist
